@@ -7,7 +7,8 @@ Users should be able to:
 
 ### Screenshot
 
-<img width="1920" alt="Screenshot" src="">
+![Screenshot](https://github.com/faizalap14/404-Page/assets/115767098/c08942ee-0f60-4590-b36c-fdc8cd76553c)
+
 
 
 ## My process
